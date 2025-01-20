@@ -1,0 +1,18 @@
+<!-- Theme by: Thiện 131 
+Share by: @dothanh1110 (đc cấp phép)
+mấy con chó share ko gắn nguồn chết đi || và mấy con chó leak trc đó cx thế nhé
+Zalo: https://zalo.me/g/pmselp698 -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>com.garena.game.kgvn</string>
+		</array>
+	</dict>
+</dict>
+</plist>
