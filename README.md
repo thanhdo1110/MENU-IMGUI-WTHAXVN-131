@@ -3,7 +3,6 @@
 > [!NOTE]  
 > Theme by: Thiện 131  
 > Share by: @dothanh1110 (được cấp phép)  
-> Mấy con chó share không gắn nguồn chết đi || và mấy con chó leak trước đó cũng thế nhé  
 > Zalo: [https://zalo.me/g/pmselp698](https://zalo.me/g/pmselp698)  
 > Tele: [https://t.me/dothanh1110](https://t.me/dothanh1110)
 
