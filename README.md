@@ -2,9 +2,9 @@
 
 > [!NOTE]  
 > Theme by: Thiện 131  
-> Share by: @dothanh1110 (được cấp phép)  
+> Share by: [@dothanh1110](https://t.me/dothanh1110) (được cấp phép)  
 > Zalo: [https://zalo.me/g/pmselp698](https://zalo.me/g/pmselp698)  
-> Tele: [https://t.me/dothanh1110](https://t.me/dothanh1110)
+
 
 ## Donate 
 **Techcombank**
